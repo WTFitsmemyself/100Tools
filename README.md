@@ -3,7 +3,7 @@ Hi , This is my first project and nothing special is in here But it's very impor
 
 --------------------------------
 
-There is about 30 to 50 commands that every SysAdmin wite in terminal of any server to check the status and the condition of the server 
+There is about 30 to 50 commands that every SysAdmin write in terminal of any server to check the status and the condition of the server 
 
 --------------------------------
 
