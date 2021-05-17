@@ -17,7 +17,7 @@ showlist ()
 ProcMNG ()
 {
     select CHOICE in "htOp" "proCCes View" "KiLL PRoC" "tree OF proccess" "ParenT Procces" "SySCTL" "BaCk";
-    do
+    do 
         case $REPLY in
             1)
                 htop
