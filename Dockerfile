@@ -3,4 +3,4 @@ RUN apk add htop cmatrix vim bash zsh
 RUN mkdir app
 COPY auto.sh /app 
 WORKDIR /app 
-CMD ./auto.sh
+CMD zsh auto.sh
